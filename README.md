@@ -1,9 +1,10 @@
-# Cosden Solutions Example Code
+# Example Code
 
-This repository provides the code shown in a specific video.
+This repository offers an additional code example similar to the one in the Medium blog.
+
 
 ## Instructions
 
-1. Install dependencies by running `pnpm install` (or `npm`/`yarn`)
-2. Run in dev mode by running `pnpm run dev` (or `npm`/`yarn`)
+1. Install dependencies by running `npm install` 
+2. Run in dev mode by running `npm run dev`
 3. Enjoy and learn!
